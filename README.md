@@ -1,2 +1,2 @@
-# Rest-API
- Python
+# Django-Rest-API
+Python, Django, Rest Framework.
